@@ -1,2 +1,6 @@
 # hello-world
-И если что-то получится - то это только старт...
+
+Hello people.
+
+And if something happens - it's just a start ...
+Willing to develop and develop.
